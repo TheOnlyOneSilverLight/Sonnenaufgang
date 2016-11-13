@@ -1,0 +1,9 @@
+**.*~
+**.epub
+**.pdf
+*-export
+*.aux
+*.tex.backup
+*.log
+*.out
+*.toc

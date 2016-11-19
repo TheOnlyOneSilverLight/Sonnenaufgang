@@ -4,11 +4,7 @@ img_extIsRegExp=false
 img_extensions=.eps .jpg .jpeg .png .pdf .ps .fig .gif
 kileprversion=2
 kileversion=2.1.3
-<<<<<<< HEAD
-lastDocument=part_jozah.tex
-=======
 lastDocument=Sonnenaufgang.tex
->>>>>>> 3b8a53a508d68ca8ca2d36d327a8333d5df5c9a2
 masterDocument=
 name=Sonnenaufgang
 pkg_extIsRegExp=false
@@ -20,18 +16,6 @@ src_extensions=.tex .ltx .latex .dtx .ins
 MakeIndex=
 QuickBuild=
 
-<<<<<<< HEAD
-[document-settings,item:Jozah1.tex]
-=======
-[document-settings,item:Semric1.tex]
->>>>>>> 3b8a53a508d68ca8ca2d36d327a8333d5df5c9a2
-Bookmarks=
-Encoding=UTF-8
-Highlighting=LaTeX
-Indentation Mode=normal
-Mode=LaTeX
-
-<<<<<<< HEAD
 [document-settings,item:Jozah2.tex]
 Bookmarks=
 Encoding=UTF-8
@@ -40,9 +24,20 @@ Indentation Mode=normal
 Mode=LaTeX
 
 [document-settings,item:Sarime4.tex]
-=======
+Bookmarks=
+Encoding=UTF-8
+Highlighting=LaTeX
+Indentation Mode=normal
+Mode=LaTeX
+
+[document-settings,item:Semric1.tex]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=LaTeX
+Indentation Mode=normal
+Mode=LaTeX
+
 [document-settings,item:Semric2.tex]
->>>>>>> 3b8a53a508d68ca8ca2d36d327a8333d5df5c9a2
 Bookmarks=
 Encoding=UTF-8
 Highlighting=LaTeX
@@ -56,7 +51,6 @@ Highlighting=LaTeX
 Indentation Mode=normal
 Mode=LaTeX
 
-<<<<<<< HEAD
 [document-settings,item:part_jozah.tex]
 Bookmarks=
 Encoding=UTF-8
@@ -64,8 +58,6 @@ Highlighting=LaTeX
 Indentation Mode=normal
 Mode=LaTeX
 
-=======
->>>>>>> 3b8a53a508d68ca8ca2d36d327a8333d5df5c9a2
 [document-settings,item:part_sarime.tex]
 Bookmarks=
 Encoding=UTF-8
@@ -83,7 +75,6 @@ Mode=LaTeX
 [item:Jozah1.tex]
 archive=true
 column=0
-<<<<<<< HEAD
 encoding=UTF-8
 highlight=LaTeX
 line=281
@@ -93,29 +84,17 @@ order=-1
 
 [item:Jozah2.tex]
 archive=true
-column=42
+column=0
 encoding=UTF-8
 highlight=LaTeX
-line=11
+line=439
 mode=LaTeX
 open=true
-order=3
-
-[item:Sarime1.tex]
-archive=true
-column=1
-=======
-encoding=
-highlight=
-line=0
-mode=
-open=false
-order=-1
+order=0
 
 [item:Sarime1.tex]
 archive=true
 column=0
->>>>>>> 3b8a53a508d68ca8ca2d36d327a8333d5df5c9a2
 encoding=
 highlight=
 line=0
@@ -125,11 +104,7 @@ order=-1
 
 [item:Sarime2.tex]
 archive=true
-<<<<<<< HEAD
-column=0
-=======
 column=1
->>>>>>> 3b8a53a508d68ca8ca2d36d327a8333d5df5c9a2
 encoding=
 highlight=
 line=0
@@ -139,11 +114,7 @@ order=-1
 
 [item:Sarime3.tex]
 archive=true
-<<<<<<< HEAD
-column=1
-=======
 column=0
->>>>>>> 3b8a53a508d68ca8ca2d36d327a8333d5df5c9a2
 encoding=
 highlight=
 line=0
@@ -153,56 +124,22 @@ order=-1
 
 [item:Sarime4.tex]
 archive=true
-<<<<<<< HEAD
 column=0
 encoding=UTF-8
 highlight=LaTeX
 line=404
 mode=LaTeX
-open=true
+open=false
 order=2
 
 [item:Semric1.tex]
-archive=true
-=======
->>>>>>> 3b8a53a508d68ca8ca2d36d327a8333d5df5c9a2
-column=1
-encoding=
-highlight=
-line=0
-mode=
-open=false
-order=-1
-
-<<<<<<< HEAD
-[item:Sonnenaufgang.tex]
 archive=true
 column=0
 encoding=UTF-8
 highlight=LaTeX
 line=0
 mode=LaTeX
-open=true
-order=4
-
-[item:part_jozah.tex]
-archive=true
-column=10
-encoding=UTF-8
-highlight=LaTeX
-line=3
-mode=LaTeX
-open=true
-order=5
-=======
-[item:Semric1.tex]
-archive=true
-column=61
-encoding=UTF-8
-highlight=LaTeX
-line=263
-mode=LaTeX
-open=true
+open=false
 order=0
 
 [item:Semric2.tex]
@@ -212,7 +149,7 @@ encoding=UTF-8
 highlight=LaTeX
 line=360
 mode=LaTeX
-open=true
+open=false
 order=1
 
 [item:Sonnenaufgang.tex]
@@ -223,18 +160,17 @@ highlight=LaTeX
 line=19
 mode=LaTeX
 open=true
-order=4
+order=1
 
 [item:part_jozah.tex]
 archive=true
-column=0
-encoding=
-highlight=
-line=0
-mode=
-open=false
-order=-1
->>>>>>> 3b8a53a508d68ca8ca2d36d327a8333d5df5c9a2
+column=18
+encoding=UTF-8
+highlight=LaTeX
+line=4
+mode=LaTeX
+open=true
+order=2
 
 [item:part_sarime.tex]
 archive=true
@@ -243,59 +179,18 @@ encoding=UTF-8
 highlight=LaTeX
 line=0
 mode=LaTeX
-open=true
-<<<<<<< HEAD
+open=false
 order=1
 
 [item:part_semric.tex]
 archive=true
-column=0
-=======
-order=3
-
-[item:part_semric.tex]
-archive=true
-column=19
->>>>>>> 3b8a53a508d68ca8ca2d36d327a8333d5df5c9a2
+column=12
 encoding=UTF-8
 highlight=LaTeX
 line=3
 mode=LaTeX
-open=true
-<<<<<<< HEAD
+open=false
 order=0
-
-[view-settings,view=0,item:Jozah1.tex]
-CursorColumn=0
-CursorLine=281
-JumpList=
-ViMarks=.,280,0,[,280,0,],-1,-1
-
-[view-settings,view=0,item:Jozah2.tex]
-CursorColumn=42
-CursorLine=11
-JumpList=
-ViMarks=
-
-[view-settings,view=0,item:Sarime4.tex]
-CursorColumn=0
-CursorLine=404
-JumpList=
-ViMarks=
-
-[view-settings,view=0,item:Sonnenaufgang.tex]
-CursorColumn=0
-CursorLine=0
-JumpList=
-ViMarks=
-
-[view-settings,view=0,item:part_jozah.tex]
-CursorColumn=10
-CursorLine=3
-JumpList=
-ViMarks=.,3,16,[,3,7,],3,16
-=======
-order=2
 
 [item:sonnenaufgang.kilepr]
 archive=true
@@ -306,6 +201,24 @@ line=0
 mode=
 open=false
 order=-1
+
+[view-settings,view=0,item:Jozah1.tex]
+CursorColumn=0
+CursorLine=281
+JumpList=
+ViMarks=.,280,0,[,280,0,],-1,-1
+
+[view-settings,view=0,item:Jozah2.tex]
+CursorColumn=0
+CursorLine=439
+JumpList=
+ViMarks=.,439,0,[,439,0,],439,0
+
+[view-settings,view=0,item:Sarime4.tex]
+CursorColumn=0
+CursorLine=404
+JumpList=
+ViMarks=
 
 [view-settings,view=0,item:Semric1.tex]
 CursorColumn=61
@@ -324,7 +237,13 @@ CursorColumn=23
 CursorLine=19
 JumpList=
 ViMarks=.,0,16,[,0,16,],0,16
->>>>>>> 3b8a53a508d68ca8ca2d36d327a8333d5df5c9a2
+
+[view-settings,view=0,item:part_jozah.tex]
+CursorColumn=18
+CursorLine=4
+JumpList=
+ViMarks=.,4,16,[,4,7,],4,16
+order=2
 
 [view-settings,view=0,item:part_sarime.tex]
 CursorColumn=0
@@ -333,14 +252,7 @@ JumpList=
 ViMarks=
 
 [view-settings,view=0,item:part_semric.tex]
-<<<<<<< HEAD
-CursorColumn=0
-CursorLine=3
-JumpList=
-ViMarks=.,3,0,[,3,0,],3,0
-=======
-CursorColumn=19
+CursorColumn=12
 CursorLine=3
 JumpList=
 ViMarks=.,3,18,[,3,18,],3,18
->>>>>>> 3b8a53a508d68ca8ca2d36d327a8333d5df5c9a2

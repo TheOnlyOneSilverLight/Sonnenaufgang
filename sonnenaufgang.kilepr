@@ -142,12 +142,12 @@ order=4
 
 [item:Lavay1.tex]
 archive=true
-column=45
+column=27
 encoding=UTF-8
 highlight=LaTeX
-line=303
+line=230
 mode=LaTeX
-open=true
+open=false
 order=1
 
 [item:Sarime1.tex]
@@ -232,13 +232,13 @@ order=2
 
 [item:part_lavay.tex]
 archive=true
-column=18
+column=17
 encoding=UTF-8
 highlight=LaTeX
-line=2
+line=3
 mode=LaTeX
 open=true
-order=2
+order=1
 
 [item:part_sarime.tex]
 archive=true
@@ -295,10 +295,10 @@ JumpList=
 ViMarks=.,61,0,[,60,42,],-1,-1
 
 [view-settings,view=0,item:Lavay1.tex]
-CursorColumn=45
-CursorLine=303
+CursorColumn=27
+CursorLine=230
 JumpList=
-ViMarks=.,303,45,[,303,45,],303,45
+ViMarks=.,230,26,[,230,26,],230,26
 
 [view-settings,view=0,item:Sarime4.tex]
 CursorColumn=0
@@ -332,10 +332,10 @@ ViMarks=.,4,16,[,4,7,],4,16
 order=2
 
 [view-settings,view=0,item:part_lavay.tex]
-CursorColumn=18
-CursorLine=2
+CursorColumn=17
+CursorLine=3
 JumpList=
-ViMarks=.,2,16,[,2,7,],2,16
+ViMarks=.,3,16,[,3,7,],3,16
 
 [view-settings,view=0,item:part_sarime.tex]
 CursorColumn=0

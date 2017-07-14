@@ -4,7 +4,7 @@ img_extIsRegExp=false
 img_extensions=.eps .jpg .jpeg .png .pdf .ps .fig .gif
 kileprversion=2
 kileversion=2.1.3
-lastDocument=Semric6.tex
+lastDocument=Lavay6.tex
 masterDocument=
 name=Sonnenaufgang
 pkg_extIsRegExp=false
@@ -51,6 +51,13 @@ Highlighting=LaTeX
 Indentation Mode=normal
 Mode=LaTeX
 
+[document-settings,item:Jozah6.tex]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=LaTeX
+Indentation Mode=normal
+Mode=LaTeX
+
 [document-settings,item:Lavay1.tex]
 Bookmarks=
 Encoding=UTF-8
@@ -80,6 +87,13 @@ Indentation Mode=normal
 Mode=LaTeX
 
 [document-settings,item:Lavay5.tex]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=LaTeX
+Indentation Mode=normal
+Mode=LaTeX
+
+[document-settings,item:Lavay6.tex]
 Bookmarks=
 Encoding=UTF-8
 Highlighting=LaTeX
@@ -122,7 +136,14 @@ Indentation Mode=normal
 Mode=LaTeX
 
 [document-settings,item:Sarime6.tex]
-Bookmarks=327
+Bookmarks=324
+Encoding=UTF-8
+Highlighting=LaTeX
+Indentation Mode=normal
+Mode=LaTeX
+
+[document-settings,item:Sarime7.tex]
+Bookmarks=
 Encoding=UTF-8
 Highlighting=LaTeX
 Indentation Mode=normal
@@ -234,13 +255,13 @@ order=2
 
 [item:Jozah2.tex]
 archive=true
-column=20
+column=63
 encoding=UTF-8
 highlight=LaTeX
-line=364
+line=219
 mode=LaTeX
 open=false
-order=0
+order=1
 
 [item:Jozah4.tex]
 archive=true
@@ -254,23 +275,33 @@ order=1
 
 [item:Jozah5.tex]
 archive=true
-column=0
+column=21
 encoding=UTF-8
 highlight=LaTeX
-line=373
+line=291
 mode=LaTeX
 open=false
-order=1
+order=2
+
+[item:Jozah6.tex]
+archive=true
+column=82
+encoding=UTF-8
+highlight=LaTeX
+line=229
+mode=LaTeX
+open=true
+order=0
 
 [item:Lavay1.tex]
 archive=true
-column=2
+column=18
 encoding=UTF-8
 highlight=LaTeX
-line=315
+line=124
 mode=LaTeX
 open=false
-order=1
+order=2
 
 [item:Lavay2.tex]
 archive=true
@@ -284,33 +315,43 @@ order=2
 
 [item:Lavay3.tex]
 archive=true
-column=40
+column=82
 encoding=UTF-8
 highlight=LaTeX
-line=320
+line=451
 mode=LaTeX
 open=false
-order=-1
+order=3
 
 [item:Lavay4.tex]
 archive=true
-column=37
+column=100
 encoding=UTF-8
 highlight=LaTeX
-line=83
+line=124
 mode=LaTeX
 open=false
 order=-1
 
 [item:Lavay5.tex]
 archive=true
-column=3
+column=13
 encoding=UTF-8
 highlight=LaTeX
-line=0
+line=116
 mode=LaTeX
 open=false
-order=2
+order=3
+
+[item:Lavay6.tex]
+archive=true
+column=51
+encoding=UTF-8
+highlight=LaTeX
+line=20
+mode=LaTeX
+open=true
+order=4
 
 [item:Sarime1.tex]
 archive=true
@@ -324,10 +365,10 @@ order=-1
 
 [item:Sarime2.tex]
 archive=true
-column=50
+column=74
 encoding=UTF-8
 highlight=LaTeX
-line=629
+line=579
 mode=LaTeX
 open=false
 order=-1
@@ -354,20 +395,30 @@ order=2
 
 [item:Sarime5.tex]
 archive=true
-column=40
+column=23
 encoding=UTF-8
 highlight=LaTeX
-line=264
+line=265
 mode=LaTeX
 open=false
 order=1
 
 [item:Sarime6.tex]
 archive=true
-column=49
+column=0
 encoding=UTF-8
 highlight=LaTeX
-line=316
+line=334
+mode=LaTeX
+open=true
+order=1
+
+[item:Sarime7.tex]
+archive=true
+column=0
+encoding=UTF-8
+highlight=LaTeX
+line=2
 mode=LaTeX
 open=false
 order=0
@@ -429,7 +480,7 @@ encoding=UTF-8
 highlight=LaTeX
 line=247
 mode=LaTeX
-open=true
+open=false
 order=0
 
 [item:Semric7.tex]
@@ -439,7 +490,7 @@ encoding=UTF-8
 highlight=LaTeX
 line=235
 mode=LaTeX
-open=true
+open=false
 order=1
 
 [item:Sonnenaufgang.tex]
@@ -449,7 +500,7 @@ encoding=UTF-8
 highlight=LaTeX
 line=17
 mode=LaTeX
-open=true
+open=false
 order=2
 
 [item:part_jozah.tex]
@@ -457,7 +508,7 @@ archive=true
 column=17
 encoding=UTF-8
 highlight=LaTeX
-line=5
+line=6
 mode=LaTeX
 open=false
 order=1
@@ -467,27 +518,27 @@ archive=true
 column=17
 encoding=UTF-8
 highlight=LaTeX
-line=5
+line=6
 mode=LaTeX
-open=false
-order=2
+open=true
+order=3
 
 [item:part_sarime.tex]
 archive=true
-column=19
+column=0
 encoding=UTF-8
 highlight=LaTeX
-line=6
+line=7
 mode=LaTeX
-open=false
-order=4
+open=true
+order=2
 
 [item:part_semric.tex]
 archive=true
 column=18
 encoding=UTF-8
 highlight=LaTeX
-line=6
+line=7
 mode=LaTeX
 open=false
 order=1
@@ -515,10 +566,10 @@ JumpList=
 ViMarks=.,266,70,[,266,70,],266,70
 
 [view-settings,view=0,item:Jozah2.tex]
-CursorColumn=20
-CursorLine=364
+CursorColumn=63
+CursorLine=219
 JumpList=
-ViMarks=.,330,43,[,330,35,],330,43
+ViMarks=.,219,54,[,219,51,],219,54
 
 [view-settings,view=0,item:Jozah4.tex]
 CursorColumn=3
@@ -527,16 +578,22 @@ JumpList=
 ViMarks=.,115,3,[,115,3,],115,3
 
 [view-settings,view=0,item:Jozah5.tex]
-CursorColumn=0
-CursorLine=373
+CursorColumn=21
+CursorLine=291
 JumpList=
-ViMarks=.,373,0,[,373,0,],373,0
+ViMarks=.,291,21,[,291,21,],291,21
+
+[view-settings,view=0,item:Jozah6.tex]
+CursorColumn=82
+CursorLine=229
+JumpList=
+ViMarks=.,229,81,[,229,78,],229,81
 
 [view-settings,view=0,item:Lavay1.tex]
-CursorColumn=2
-CursorLine=315
+CursorColumn=18
+CursorLine=124
 JumpList=
-ViMarks=.,315,2,[,315,2,],315,2
+ViMarks=.,124,17,[,124,17,],124,17
 
 [view-settings,view=0,item:Lavay2.tex]
 CursorColumn=91
@@ -545,22 +602,28 @@ JumpList=
 ViMarks=.,407,80,[,407,80,],407,90
 
 [view-settings,view=0,item:Lavay3.tex]
-CursorColumn=40
-CursorLine=320
+CursorColumn=82
+CursorLine=451
 JumpList=
-ViMarks=.,320,31,[,320,31,],320,39
+ViMarks=.,451,81,[,451,81,],451,81
 
 [view-settings,view=0,item:Lavay4.tex]
-CursorColumn=37
-CursorLine=83
+CursorColumn=100
+CursorLine=124
 JumpList=
-ViMarks=.,61,98,[,62,0,],-1,-1
+ViMarks=.,110,3,[,110,3,],110,3
 
 [view-settings,view=0,item:Lavay5.tex]
-CursorColumn=3
-CursorLine=0
+CursorColumn=13
+CursorLine=116
 JumpList=
-ViMarks=.,0,2,[,0,2,],0,2
+ViMarks=.,122,99,[,122,98,],122,99
+
+[view-settings,view=0,item:Lavay6.tex]
+CursorColumn=51
+CursorLine=20
+JumpList=
+ViMarks=.,20,50,[,20,33,],20,50
 
 [view-settings,view=0,item:Sarime1.tex]
 CursorColumn=34
@@ -569,10 +632,10 @@ JumpList=
 ViMarks=.,386,96,[,386,96,],386,96
 
 [view-settings,view=0,item:Sarime2.tex]
-CursorColumn=50
-CursorLine=629
+CursorColumn=74
+CursorLine=579
 JumpList=
-ViMarks=.,629,50,[,629,50,],629,50
+ViMarks=.,579,73,[,579,69,],579,73
 
 [view-settings,view=0,item:Sarime3.tex]
 CursorColumn=0
@@ -587,16 +650,22 @@ JumpList=
 ViMarks=.,263,4,[,263,4,],263,4
 
 [view-settings,view=0,item:Sarime5.tex]
-CursorColumn=40
-CursorLine=264
+CursorColumn=23
+CursorLine=265
 JumpList=
-ViMarks=.,269,10,[,269,4,],269,10
+ViMarks=.,265,23,[,265,23,],265,23
 
 [view-settings,view=0,item:Sarime6.tex]
-CursorColumn=49
-CursorLine=316
+CursorColumn=0
+CursorLine=334
 JumpList=
-ViMarks=.,316,48,[,316,48,],316,48,a,327,0
+ViMarks=.,254,22,[,254,22,],254,22,a,324,0
+
+[view-settings,view=0,item:Sarime7.tex]
+CursorColumn=0
+CursorLine=2
+JumpList=
+ViMarks=.,2,0,[,2,0,],2,0
 
 [view-settings,view=0,item:Semric1.tex]
 CursorColumn=32
@@ -648,25 +717,25 @@ ViMarks=.,16,0,[,16,0,],16,0
 
 [view-settings,view=0,item:part_jozah.tex]
 CursorColumn=17
-CursorLine=5
+CursorLine=6
 JumpList=
-ViMarks=.,5,16,[,5,7,],5,16
+ViMarks=.,6,16,[,6,7,],6,16
 order=2
 
 [view-settings,view=0,item:part_lavay.tex]
 CursorColumn=17
-CursorLine=5
-JumpList=
-ViMarks=.,5,17,[,5,17,],5,17
-
-[view-settings,view=0,item:part_sarime.tex]
-CursorColumn=19
 CursorLine=6
 JumpList=
-ViMarks=.,6,17,[,6,7,],6,17
+ViMarks=.,6,16,[,6,7,],6,16
+
+[view-settings,view=0,item:part_sarime.tex]
+CursorColumn=0
+CursorLine=7
+JumpList=
+ViMarks=.,7,0,[,7,0,],7,0
 
 [view-settings,view=0,item:part_semric.tex]
 CursorColumn=18
-CursorLine=6
+CursorLine=7
 JumpList=
-ViMarks=.,6,17,[,6,7,],6,17
+ViMarks=.,7,17,[,7,7,],7,17

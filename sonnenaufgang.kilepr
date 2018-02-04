@@ -4,7 +4,7 @@ img_extIsRegExp=false
 img_extensions=.eps .jpg .jpeg .png .pdf .ps .fig .gif
 kileprversion=2
 kileversion=2.1.3
-lastDocument=Semric2.tex
+lastDocument=Jozah5.tex
 masterDocument=
 name=Sonnenaufgang
 pkg_extIsRegExp=false
@@ -265,22 +265,22 @@ order=1
 
 [item:Jozah4.tex]
 archive=true
-column=14
+column=20
 encoding=UTF-8
 highlight=LaTeX
 line=0
 mode=LaTeX
 open=false
-order=1
+order=0
 
 [item:Jozah5.tex]
 archive=true
-column=15
+column=40
 encoding=UTF-8
 highlight=LaTeX
-line=352
+line=174
 mode=LaTeX
-open=false
+open=true
 order=0
 
 [item:Jozah6.tex]
@@ -395,13 +395,13 @@ order=0
 
 [item:Sarime5.tex]
 archive=true
-column=83
+column=29
 encoding=UTF-8
 highlight=LaTeX
-line=235
+line=0
 mode=LaTeX
 open=false
-order=1
+order=0
 
 [item:Sarime6.tex]
 archive=true
@@ -435,33 +435,33 @@ order=0
 
 [item:Semric2.tex]
 archive=true
-column=88
+column=59
 encoding=UTF-8
 highlight=LaTeX
-line=31
+line=226
 mode=LaTeX
-open=true
+open=false
 order=0
 
 [item:Semric3.tex]
 archive=true
-column=41
+column=4
 encoding=UTF-8
 highlight=LaTeX
-line=236
-mode=LaTeX
-open=false
-order=-1
-
-[item:Semric4.tex]
-archive=true
-column=49
-encoding=UTF-8
-highlight=LaTeX
-line=139
+line=271
 mode=LaTeX
 open=false
 order=1
+
+[item:Semric4.tex]
+archive=true
+column=23
+encoding=UTF-8
+highlight=LaTeX
+line=250
+mode=LaTeX
+open=false
+order=2
 
 [item:Semric5.tex]
 archive=true
@@ -572,16 +572,16 @@ JumpList=
 ViMarks=.,213,26,[,213,26,],213,26
 
 [view-settings,view=0,item:Jozah4.tex]
-CursorColumn=14
+CursorColumn=20
 CursorLine=0
 JumpList=
-ViMarks=.,0,13,[,0,8,],0,13
+ViMarks=.,0,19,[,0,9,],0,19
 
 [view-settings,view=0,item:Jozah5.tex]
-CursorColumn=15
-CursorLine=352
+CursorColumn=40
+CursorLine=174
 JumpList=
-ViMarks=.,352,15,[,352,15,],352,15
+ViMarks=.,164,20,[,164,16,],164,20
 
 [view-settings,view=0,item:Jozah6.tex]
 CursorColumn=82
@@ -650,10 +650,10 @@ JumpList=
 ViMarks=.,420,86,[,420,86,],420,86
 
 [view-settings,view=0,item:Sarime5.tex]
-CursorColumn=83
-CursorLine=235
+CursorColumn=29
+CursorLine=0
 JumpList=
-ViMarks=.,235,82,[,235,82,],235,82
+ViMarks=.,0,28,[,0,27,],0,28
 
 [view-settings,view=0,item:Sarime6.tex]
 CursorColumn=8
@@ -674,22 +674,22 @@ JumpList=
 ViMarks=.,248,17,[,248,16,],248,17
 
 [view-settings,view=0,item:Semric2.tex]
-CursorColumn=88
-CursorLine=31
+CursorColumn=59
+CursorLine=226
 JumpList=
-ViMarks=.,31,87,[,31,87,],31,87
+ViMarks=.,226,58,[,226,57,],226,58
 
 [view-settings,view=0,item:Semric3.tex]
-CursorColumn=41
-CursorLine=236
+CursorColumn=4
+CursorLine=271
 JumpList=
-ViMarks=.,232,12,[,232,12,],232,12
+ViMarks=.,271,4,[,271,4,],271,4
 
 [view-settings,view=0,item:Semric4.tex]
-CursorColumn=49
-CursorLine=139
+CursorColumn=23
+CursorLine=250
 JumpList=
-ViMarks=.,137,10,[,137,8,],137,10
+ViMarks=.,253,97,[,254,0,],-1,-1
 
 [view-settings,view=0,item:Semric5.tex]
 CursorColumn=41
